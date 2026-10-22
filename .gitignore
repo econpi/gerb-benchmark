@@ -1,0 +1,7 @@
+# The private problem set never belongs in this public repo.
+*.problems
+problems/
+solutions/
+# release archives downloaded from GitHub for the Zenodo upload
+*.zip
+.DS_Store

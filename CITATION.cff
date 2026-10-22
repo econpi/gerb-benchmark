@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use GERB, please cite the paper and the archived release below."
+title: "GERB: Graduate Economic Reasoning Benchmark"
+abstract: >-
+  A benchmark of sixty graduate-level analytical economics problems with verified answers and
+  worked reference solutions, fielded in a 2x2 within-task design that crosses a content-preserving
+  red herring with an explanation request, to measure whether a red herring, text that looks relevant but is not
+  needed to solve the problem, corrupts economic reasoning through distraction. Public design and private content.
+type: dataset
+authors:
+  - family-names: Akimitsu
+    given-names: Piyush
+    affiliation: "University at Albany, SUNY"
+version: "3.0.0"
+date-released: "2026-10-22"
+license: CC-BY-4.0
+repository-code: "https://github.com/econpi/gerb-benchmark"
+doi: "10.5281/zenodo.21541072"   # the all-versions DOI; it always resolves to the latest version
+keywords:
+  - language models
+  - economic reasoning
+  - benchmark
+  - robustness
+  - red herring
+preferred-citation:
+  type: article
+  title: "Wrong and More Confident: A Field Experiment on Large Language Models Taking a Graduate Economics Exam"
+  authors:
+    - family-names: Akimitsu
+      given-names: Piyush
+      affiliation: "University at Albany, SUNY"
+  year: 2026
+  doi: 10.48550/arXiv.2607.23424
+  url: "https://arxiv.org/abs/2607.23424"
