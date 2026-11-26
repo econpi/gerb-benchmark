@@ -21,11 +21,11 @@ By requesting and receiving the GERB problem set, you agree that you will:
 3. **Not incorporate** the problems into any product, service, or public leaderboard that would
    expose them.
 4. Use the materials solely to evaluate models for research, and store them so they are not
-   exposed to web crawlers or to third parties who have not signed this agreement.
+   exposed to web crawlers or to any third party.
 5. Cite GERB in any resulting work, using the entries in [CITATION.bib](CITATION.bib).
 
-These terms bind you and anyone you share the materials with. Sharing is permitted only with
-people who have themselves agreed to these terms.
+Access is individual and non-transferable. Do not share the materials with anyone. Each person
+who needs them must request access and agree to these terms directly.
 
 ## How to request
 

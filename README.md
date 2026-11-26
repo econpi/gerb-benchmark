@@ -29,7 +29,7 @@ underlying problems.
 |------|----------|
 | [PROTOCOL.md](PROTOCOL.md) | The experimental design, the two-stage grading, the grade ruling and the estimand |
 | `results/` | The outcome tables and per-model estimates reported in the paper, under the ruled grade, on the paper's fifty-nine-task estimation sample; `results/README.md` states the step from the sixty problems to the fifty-nine |
-| `examples/` | A small number of illustrative problems, enough to convey the style |
+| `examples/` | Placeholder for a few illustrative problems; none are included yet (see [examples/README.md](examples/README.md)) |
 | [CITATION.cff](CITATION.cff), [CITATION.bib](CITATION.bib) | How to cite GERB |
 | [DATA_ACCESS.md](DATA_ACCESS.md) | How to request the private problem set, and the terms |
 
@@ -60,7 +60,7 @@ in `results/`.
 ## How to cite
 
 Cite the paper and the archived release. Ready-to-use entries are in [CITATION.bib](CITATION.bib). This is
-version 3.0.0 of the release (2026-10-22), the benchmark under the ruled grade.
+version 3.0.1 of the release (2026-11-26), the benchmark under the ruled grade.
 
 ## License
 
